@@ -9,7 +9,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/fivebeds/ticket-lifestyle/blob/main/README.md)
 - <b>Wireshark</b>
-  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/MonicaMuller/wireshark-network-protocols)
+  - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/fivebeds/wireshark-network-protocols/blob/main/README.md)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
 

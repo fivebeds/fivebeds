@@ -11,7 +11,7 @@
 - <b>Wireshark</b>
   - [Inspecting Network Protocols (ICMP, SSH, DHCP, DNS, and RDP) with Wireshark](https://github.com/fivebeds/wireshark-network-protocols/blob/main/README.md)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/MonicaMuller/vpn-usage)
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/fivebeds/vpn-usage/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 

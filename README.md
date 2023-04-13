@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/fivebeds/create-azure-vm/blob/main/README.md)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonicaMuller/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fivebeds/configure-ad/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Example](https://github.com/MonicaMuller/ticket-lifecycle)
 - <b>Wireshark</b>

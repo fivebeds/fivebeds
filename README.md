@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/fivebeds/create-azure-vm/blob/main/README.md))
+  - [Creating a Virtual Machine (VM) in Microsoft Azure](https://github.com/fivebeds/create-azure-vm/blob/main/README.md)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MonicaMuller/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>

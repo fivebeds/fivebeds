@@ -17,4 +17,4 @@
 
 [<img align="left" alt="Kyle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kyle4tkins
+[linkedin]: https://www.linkedin.com/in/kyl34tkins
